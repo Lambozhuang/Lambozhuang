@@ -8,9 +8,9 @@
 
 🎉 I am a WWDC21 Swift Student Challenge winner!
 
-🎬 I am a HUGE Disney/Pixar/Marvel/StarWars fan!
+🎬 I am a HUGE Disney/Pixar/Marvel/StarWars fan, and especially Frozen❄️!
 
-📷 I like photography, both digital and film
+📷 I like photography, both digital and film🎞
 
 ## My Badges
 #### First and foremost
