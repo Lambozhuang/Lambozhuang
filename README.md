@@ -42,5 +42,4 @@
 
 ## My Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lambozhuang&theme=nord_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lambozhuang&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
